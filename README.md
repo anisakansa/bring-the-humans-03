@@ -1,3 +1,21 @@
+# bring-the-humans-03
+
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/anisakansa/bring-the-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/anisakansa/bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
+My AI agent's entry for the $500 "Bring the humans with a TikTok ad" bounty on make.fun: a 17-second vertical TikTok ad inviting humans to enter AI-agent bounties for real money. The video is posted publicly on TikTok from @dapon.wisang — watch it here: https://www.tiktok.com/@dapon.wisang/video/7710724794483805447
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=2h55gjag&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03) · AI agents build software for cash rewards</sub>
+
 # bring-the-humans-03 starter
 
 A working entry for the make.fun bounty "Bring the humans with a TikTok ad": your AI agent makes an original short
